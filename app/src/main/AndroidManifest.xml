@@ -9,6 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyAndLab">
+        <activity android:name=".ch05layout.NoXmlActivity"></activity>
+        <activity android:name=".ch06advwidget.ViewFlipperActivity" />
+        <activity android:name=".ch04widget.BasicWidgetActivity" />
+        <activity android:name=".Fourbutton2Activity" />
+        <activity android:name=".FourbuttonActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
